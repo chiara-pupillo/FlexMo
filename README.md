@@ -2,7 +2,7 @@
 
 **FlexMo** contains the reproducible analysis notebooks associated with the manuscript:
 
-*Cognitive flexibility as a transdiagnostic digital biomarker: interpretable multimodal machine learning integrating immersive virtual reality and semantic network features across healthy aging, functional frailty, and mild cognitive impairment*
+*Cognitive Flexibility as a Potential Transdiagnostic Digital Biomarker Across Cognitive Aging Profiles: An Interpretable Multimodal Machine Learning Model That Integrates Features from Immersive Virtual Reality and Semantic Networks*
 
 The manuscript is currently under submission.
 
@@ -105,7 +105,7 @@ Additional packages should be installed as required by the notebook import cells
 
 Please cite the associated manuscript once published.
 
-> Pupillo, C. et al. *Cognitive flexibility as a transdiagnostic digital biomarker: interpretable multimodal machine learning integrating immersive virtual reality and semantic network features across healthy aging, functional frailty, and mild cognitive impairment*. Manuscript under submission.
+> Pupillo, C. et al. *Cognitive Flexibility as a Potential Transdiagnostic Digital Biomarker Across Cognitive Aging Profiles: An Interpretable Multimodal Machine Learning Model That Integrates Features from Immersive Virtual Reality and Semantic Networks*. Manuscript under submission.
 
 A full citation, DOI, and Zenodo record link should be added after publication or public release.
 
